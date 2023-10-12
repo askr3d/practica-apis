@@ -1,0 +1,12 @@
+{
+    "correos":{
+        "0":{
+            "correo": "askred@git.com",
+            "fechaCreada": "2023/04/26"
+        },
+        "1":{
+            "correo": "prueba@git.com",
+            "fechaCreada": "2023/04/26"
+        }
+    }
+}

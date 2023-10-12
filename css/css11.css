@@ -1,0 +1,115 @@
+.crisp-client *:focus-visible {
+  outline-color: #B40A45 !important;
+}
+
+.crisp-client .cc-1m7s .cc-43er {
+  color: #FFFFFF !important;
+}
+
+.crisp-client .cc-1m7s .cc-1dea {
+  color: #F11D64 !important;
+}
+
+.crisp-client .cc-1m7s .cc-12kx {
+  background-color: #FFFFFF !important;
+}
+
+.crisp-client .cc-1m7s .cc-o3lf {
+  background-color: #B40A45 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1jlu {
+  background-color: #DB165A !important;
+}
+
+.crisp-client .cc-1m7s .cc-qvio {
+  background-color: #F11D64 !important;
+}
+
+.crisp-client .cc-1m7s .cc-qvio *:focus-visible {
+  outline-color: #F0F2F5 !important;
+}
+
+.crisp-client .cc-1m7s .cc-918l {
+  background-color: #F7F2F2 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1gvp {
+  background-color: #F0F2F5 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1idk {
+  border-color: #FFFFFF !important;
+}
+
+.crisp-client .cc-1m7s .cc-1yqf,
+.crisp-client .cc-1m7s .cc-16s6:hover {
+  border-color: #F11D64 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1v5g {
+  border-color: rgba(241, 29, 100, 0.2) !important;
+}
+
+.crisp-client .cc-1m7s .cc-101z {
+  border-bottom-color: #F11D64 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1xhq::placeholder {
+  color: #92A9C1 !important;
+}
+
+.crisp-client .cc-1m7s .cc-fpp2::placeholder {
+  color: #92A9C1 !important;
+}
+
+.crisp-client .cc-1m7s .cc-xl8d,
+.crisp-client .cc-1m7s .cc-xl8d:active,
+.crisp-client .cc-1m7s .cc-12vm:hover .cc-988o,
+.crisp-client .cc-1m7s .cc-12vm .cc-988o:active {
+  background: #B40A45 !important;
+}
+
+.crisp-client .cc-1m7s .cc-sywj,
+.crisp-client .cc-1m7s .cc-1gkp:hover,
+.crisp-client .cc-1m7s .cc-17qg[data-active="true"] .cc-8tya {
+  background: #CE1454 !important;
+}
+
+.crisp-client .cc-1m7s .cc-xl8d:hover,
+.crisp-client .cc-1m7s .cc-sywj:hover,
+.crisp-client .cc-1m7s .cc-1gkp:active {
+  background: #C20F4D !important;
+}
+
+.crisp-client .cc-1m7s .cc-sywj:active {
+  background: #B40A45 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1eud:hover .cc-1wyd {
+  background: #CE1454 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1eud .cc-1wyd:active {
+  background: #C20F4D !important;
+}
+
+.crisp-client .cc-1m7s .cc-n25y,
+.crisp-client .cc-1m7s .cc-1oot:hover .cc-1rul,
+.crisp-client .cc-1m7s .cc-1oot .cc-1rul:active {
+  background: #F11D64 !important;
+}
+
+.crisp-client .cc-1m7s .cc-n25y:hover {
+  background: #DB165A !important;
+}
+
+.crisp-client .cc-1m7s .cc-n25y:active {
+  background: #CE1454 !important;
+}
+
+.crisp-client .cc-1m7s .cc-1opo::selection,
+.crisp-client .cc-1m7s .cc-1opo *::selection {
+  color: #1c293b !important;
+  background-color: #FFE0EB !important;
+}
